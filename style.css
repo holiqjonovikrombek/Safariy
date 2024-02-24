@@ -1,0 +1,117 @@
+.container1 .col-12{
+    background-image: url(./img/Rectangle\ 1.jpg);
+    width: 100%;
+    height: 940px;
+}
+.tel{
+    width: 215px;
+height: 44px;
+flex-shrink: 0;
+border-radius: 22px;
+background:  #886239;
+}
+.hr{
+    color: white;
+}
+.navbar a{
+    margin-left: 100px;
+}
+.text h1{
+    width: 865px;
+height: 117px;
+flex-shrink: 0;
+color: var(--, #1F1E1E);
+font-family: "PT Serif";
+font-size: 90px;
+font-style: normal;
+font-weight: 700;
+line-height: 130%; /* 117px */
+margin-left: 126px;
+margin-top: 50px;
+}
+.text p{
+    width: 422px;
+height: 59px;
+flex-shrink: 0;
+color: var(--, #1F1E1E);
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 140%; /* 28px */
+margin-top: 400px;
+}
+.text .button2{
+    width: 250px;
+height: 60px;
+flex-shrink: 0;
+border-radius: 30px;
+background:  #886239;
+margin-top: 20px;
+}
+   @media (max-width: 1200px){
+  .text{
+    display: none;
+ }
+ }
+ .container2{
+    margin-top: 100px;
+ }
+ .container3{
+    margin-top: 80px;
+ }
+ .container4{
+    margin-top: 80px;
+ }
+ .dldkvncj{
+    color: var(--, #1F1E1E);
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+ }
+ .dnvjfb{
+    color: var(--, #1F1E1E);
+text-align: center;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: 130%; /* 46.8px */
+margin-top: 100px;
+ }
+ .vvmkvm{
+    width: 275px;
+height: 49px;
+flex-shrink: 0;
+color: var(--, #1F1E1E);
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+ }
+ .kkl{
+    width: 448px;
+height: 255px;
+flex-shrink: 0;
+color: var(--, #1F1E1E);
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; /* 25.2px */
+ }
+ .container8{
+    background-image: url(./img/Rectangle\ 56.png);
+    width: 100%;
+    height: 685px;
+    margin-top: 50px;
+ }
+ @media (max-width: 768px){
+    .responsive{
+    height: 500px;width: 500px;
+   }
+  
